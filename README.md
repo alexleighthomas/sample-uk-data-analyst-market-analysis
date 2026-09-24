@@ -1,5 +1,9 @@
 # 📊 UK Data Analyst Job Market Analysis (2026)
 
+## 📌 Data Scope & Methodology
+⭐ **Sample Size:** 30 representative UK Data Analyst job postings.
+⭐ **Purpose:** Built as a proof-of-concept project demonstrating database normalization (3NF), relational SQL querying, and executive dashboard design in Tableau.
+
 ### Data Relational Modeling, SQL Querying, and Interactive Tableau Visualization
 
 This end-to-end data analysis project explores current job market demand, key technical skill requirements, work arrangements, hiring industries, and geographic distribution for data roles across the UK. 
