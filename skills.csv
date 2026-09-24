@@ -1,0 +1,150 @@
+skill_id,skill_name,skill_category
+1,Data Modelling,Technical
+2,SQL,Technical
+3,Data Warehousing,Technical
+4,Agile,Technical
+5,DevOps,Technical
+6,Data Profiling,Technical
+7,Requirement Gathering,Technical
+8,Process Mapping,Technical
+9,Analytic Tools,Technical
+10,Structured Databases,Technical
+11,WinCan VX,Technical
+12,OS 19 Coding,Technical
+13,GDMS Round Tripping,Technical
+14,GIS,Technical
+15,Excel,Technical
+16,Active Directory,Technical
+17,Exchange Online,Technical
+18,Office 365,Technical
+19,Azure,Technical
+20,PowerShell,Technical
+21,Windows Server,Technical
+22,HP Hardware,Technical
+23,SAN,Technical
+24,NAS,Technical
+25,LAN,Technical
+26,WAN,Technical
+27,Firewalls,Technical
+28,VMware,Technical
+29,Veeam,Technical
+30,Tableau,Technical
+31,Power BI,Technical
+32,Database Management,Technical
+33,Lean,Technical
+34,Six Sigma,Technical
+35,KPI Development,Technical
+36,SQL Server,Technical
+37,Advanced Excel,Technical
+38,Statistical Analysis,Technical
+39,Microsoft Office,Technical
+40,Forecasting,Technical
+41,Cyber Monitoring Tools,Technical
+42,Python,Technical
+43,ELT,Technical
+44,ETL,Technical
+45,BI Platforms,Technical
+46,Cloud Concepts,Technical
+47,ERLANG,Technical
+48,Statistical Forecasting,Technical
+49,WFM Platforms,Technical
+50,SAS,Technical
+51,DAX,Technical
+52,PowerQuery,Technical
+53,SD-WAN,Technical
+54,IDS,Technical
+55,Anti-virus,Technical
+56,Authentication Systems,Technical
+57,Cloud Security,Technical
+58,Tenable,Technical
+59,Nessus,Technical
+60,Forensics,Technical
+61,API's,Technical
+62,Automation,Technical
+63,Microsoft 365 Administration,Technical
+64,OS Deployment,Technical
+65,MDM,Technical
+66,RMM,Technical
+67,Hardware and Software Troubleshooting,Technical
+68,Knowledge-Based Documentation,Technical
+69,Microsoft 365,Technical
+70,CRM Systems,Technical
+71,Data Quality Management,Technical
+72,HRIS,Technical
+73,Data Governance,Technical
+74,Reporting Automation,Technical
+75,Power Automate,Technical
+76,Reporting,Technical
+77,Data Cleaning,Technical
+78,Dashboard Creation,Technical
+79,Qlik,Technical
+80,Data Manipulation,Technical
+81,Claims Analytics,Technical
+82,Insurance Domain Knowledge,Technical
+83,Access,Technical
+84,Alteryx,Technical
+85,Data Preparation,Technical
+86,Pricing Analysis,Technical
+87,Data Management,Technical
+88,Benefits Tracking,Technical
+89,Sharepoint,Technical
+90,CRM Data,Technical
+91,API Integrations,Technical
+92,Campaign Selections,Technical
+93,Data Maipulation,Technical
+94,Powe BI,Technical
+95,Data Modeling,Technical
+96,Data Validation,Technical
+97,Data Storytelling,Technical
+98,Operating Reporting,Technical
+99,Data Quality,Technical
+100,Commercial Analytics,Technical
+101,Large Dataset Handeling,Technical
+102,BI Tools,Technical
+103,Campaign Analytics,Technical
+104,Looker,Technical
+105,KPI Reporting,Technical
+106,Systems Administration,Technical
+107,Stakeholder communication,Soft
+108,Attention to detail,Soft
+109,Integrity,Soft
+110,Teamwork,Soft
+111,Ability to work under pressure,Soft
+112,Communication,Soft
+113,Organisation,Soft
+114,Adaptability,Soft
+115,Consulting mindset,Soft
+116,Problem‑solving,Soft
+117,Process‑driven mindset,Soft
+118,Problem‑solving; Dependability; Flexibility; Communication; Organisation,Soft
+119,Analytical thinking,Soft
+120,Collaboration,Soft
+121,Commercial awareness,Soft
+122,Calm under pressure,Soft
+123,Proactive ownership,Soft
+124,Business partnership building,Soft
+125,Confidentiality,Soft
+126,Willingness to learn,Soft
+127,Professionalism,Soft
+128,Learning mindset,Soft
+129,Stakeholder management,Soft
+130,Leadership,Soft
+131,Stakeholder influence,Soft
+132,Curiosity,Soft
+133,Responsible AI use,Soft
+134,Mentoring,Soft
+135,Proactive mindset,Soft
+136,Stakeholder engagement,Soft
+137,Lateral thinking,Soft
+138,Relationship building,Soft
+139,Process improvement,Soft
+140,Accuracy,Soft
+141,Requirement translation,Soft
+142,Business understanding,Soft
+143,Multitasking,Soft
+144,Training,Soft
+145,Analytical mindset,Soft
+146,Cross‑functional collaboration,Soft
+147,Continuous improvement mindset,Soft
+148,ETL ELT,Tool / Specific Domain
+149,API Intergrations,Tool / Specific Domain

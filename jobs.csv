@@ -1,0 +1,31 @@
+job_id,job_title,job_description,link,work_mode_id,location_id,category_id,industry_id
+1,Technical Specialist,"Supports NHS Scotland data services by defining data requirements, documenting data flows, and contributing to data pipelines and logical data warehouse development.",Technical Specialist Indeed,1,1,1,1
+2,Business Analyst,"Gathers and documents requirements, creates user stories, performs process analysis, and supports consulting projects and UAT activities.",Business Analyst Indeed,2,2,2,2
+3,Drainage Data Analyst,"Processes CCTV drainage survey data, codes defects to OS19X standards, performs QA checks, and produces drainage reports and shapefile uploads.",Drainage GDMS and CCTV Analyst Indeed,2,3,3,3
+4,IT Support Analyst,"Provides onsite and remote IT support by diagnosing and resolving hardware, software, and network issues and administering client systems.",IT Support Analyst Indeed,2,4,4,4
+5,Operations & Data Improvement Analyst,,Operations and Data Analyst Indeed,2,5,5,2
+6,Technical Support Analyst,"Analyses operational data, identifies inefficiencies, develops reports and dashboards, and supports KPI tracking and improvement projects.",Technical Support Analyst Indeed,2,6,4,5
+7,Business Analyst,"Investigates software, configuration, and data issues, uses SQL and HTML/CSS, tests fixes, delivers training, and reduces escalations.",Business Analyst Indeed,2,7,2,2
+8,Junior Cyber Security Analyst,"Monitors security alerts, investigates incidents, supports vulnerability assessments, and maintains cyber security policies and identity access controls.",Junior Cyber Security Analyst,2,8,6,6
+9,Data & Analytics Technician,"Builds BI solutions, develops data pipelines, supports ETL and data warehousing, and contributes to analytical outputs and dashboards.",IM&T Technician Indeed ,1,9,1,1
+10,Planning & MI Aanalyst,"Leads workforce planning and forecasting using statistical modelling, ERLANG methods, KPI reporting, and stakeholder collaboration.",Senior Planning & MI Analyst,1,10,5,7
+11,Associate Underwriting MI Analyst,"Builds MI reports, maintains data models, performs analysis, and uses Power BI, Databricks, SAS, and SQL for reporting.",Associate Underwriting MI Analyst Indeed,1,11,5,8
+12,Underwriting MI Analyst,"Leads vulnerability management, incident response, RBAC governance, and device and network security assessments across critical systems.",Infrastructure Security Operations Analyst Indeed,2,12,6,9
+13,"AI, Data & Systems Analyst","Designs AI workflows, builds automations, connects business systems, analyses data, develops dashboards, and provides first‑line IT support.","AI, Data & IT Systems Analyst Indeed",2,13,7,10
+14,IT Service Desk Analyst,"Resolves escalated technical issues, manages MDM and RMM tools, creates device images, mentors staff, and contributes to problem management.",IT Service Desk Analyst,2,14,4,5
+15,Energy Data Specialist,"Manages industry data exceptions, supports registrations and settlement, ensures data integrity, and resolves operational queries.",Energy Industry Data Analyst Indeed,1,15,5,1
+16,People Data & Compliance Analyst,"Maintains people data accuracy, performs audits, produces dashboards, manages compliance reporting, resolves HR data issues, and improves HR systems.",People Data & Compliance Analyst LinkedIn,2,16,5,1
+17,Junior Data Analyst,"Cleans and validates datasets, builds dashboards, analyzes trends, extracts SQL data, and delivers recurring reports.",Insights Analyst LinkedIn,3,17,5,11
+18,Insight Analyst,"Investigates performance trends, builds dashboards, manipulates large datasets, codes SQL queries, and supports pricing and BI teams.",Insights Analyst LinkedIn,1,18,5,2
+19,Commercial Data Analyst,"Prepares datasets, tracks OKRs, builds dashboards, analyzes pricing and value chains, and supports cross‑departmental strategic projects.",Commercial Excellence Analyst LinkedIn,2,19,5,1
+20,Benefits Analyst,"Maintains benefits databases, reconciles data with finance, analyzes trends, builds dashboards, supports governance, and manages documentation.",Benefits Analyst LinkedIn,2,20,5,1
+21,Customer Insights Analyst,"Builds SQL campaign selections, manipulates CRM and transactional data, pushes selections via API, and supports email and direct mail campaigns.",Customer Insights Analyst LinkedIn,1,21,5,7
+22,Business Intelligence Analyst,"Builds Power BI dashboards, develops SQL, DAX, and Power Query data models, supports forecasting, improves data quality, and automates reporting.",Business Intelligence LinkedIn,3,22,5,11
+23,Data Insights Analyst,"Develops reporting solutions and visualisations, analyzes trends, validates data, supports KPI interpretation, and presents insights to stakeholders.",Data Insights Analyst LinkedIn,3,17,5,11
+24,Marketing Performance Analyst,"Produces operational data reporting, builds dashboards, analyzes KPIs, identifies improvement opportunities, and improves data quality.",Systems Analyst LinkedIn,2,23,5,12
+25,Data Analyst,"Manages utility bill programme data, validates and maintains client data, produces operational reports, monitors data quality, and improves processes.",Systems Analyst LinkedIn,1,24,5,11
+26,Systems Analyst,"Builds Power BI dashboards, develops datasets, supports data warehouse optimisation, provides system support, manages user access, and delivers training.",Systems Analyst LinkedIn,2,25,8,2
+27,Merchandising Analyst,"Analyses sell‑in and sell‑out data, tracks KPIs, builds forecasting tools, develops BI dashboards, and supports margin optimisation.",Merchandiser Analyst LinkedIn,1,26,5,12
+28,Data Analyst,"Extracts and manipulates large datasets using SQL, builds visual reporting, measures campaign performance, analyzes customer behaviour, and produces insights.",Data Analyst LinkedIn,3,17,5,11
+29,Data Analyst,"Consolidates data, checks data quality, prepares recurring reports, analyzes operational and commercial trends, and supports dashboard creation.",Data Analyst LinkedIn,2,24,5,11
+30,People Systems & Data Analyst,"Produces people metrics and dashboards, analyzes workforce trends, supports HR systems, automates reporting, and maintains data quality.",People Systems Analyst LinkedIn,1,27,5,11
